@@ -41,7 +41,7 @@ pip install pillow
 ## Running the Application
 
 - Clone the Repository:
-- git clone https://github.com/sunilrathod098/signature_verification.git
+- git clone https://github.com/Yash7142/Signature_Forgery_Detection
 
 - Navigate to the project directory:
 - **cd signature-forgery-detection**
